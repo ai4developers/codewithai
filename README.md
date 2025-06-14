@@ -41,7 +41,7 @@ This repository is part of the **AI for Developers** community. Please keep it s
 ✅ **Watch** for updates  
 ✅ **Fork** and build your own experiments  
 ✅ **Share** what you build with `#codewithAI`  
-✅ **Follow us** on [LinkedIn](https://www.linkedin.com/groups/14276631/) and [YouTube]([https://www.youtube.com/@aifordevelopers-r8n3e]) for live coding sessions and new AI design talks.
+✅ **Follow us** on [LinkedIn](https://www.linkedin.com/groups/14276631/) and [YouTube](https://www.youtube.com/@aifordevelopers-r8n3e) for live coding sessions and new AI design talks.
 
 ---
 
